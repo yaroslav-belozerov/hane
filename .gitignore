@@ -1,0 +1,15 @@
+.idea
+.gradle
+release
+build
+kotlin-js-store
+.kotlin
+.fleet
+kls_database.db
+local.properties
+*.iml
+.DS_Store
+captures
+.externalNativeBuild
+.cxx
+local.properties
